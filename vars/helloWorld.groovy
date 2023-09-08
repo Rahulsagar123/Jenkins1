@@ -1,4 +1,4 @@
 def call(){
-  sh'echo Hi from devops team'
+  sh 'echo Hi from devops team'
 }
 
